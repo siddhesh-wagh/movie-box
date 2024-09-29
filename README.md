@@ -84,5 +84,3 @@ If you prefer not to use the Live Server extension, you can open your HTML file 
   
   You can also try restarting VS Code or reloading the window by pressing `Ctrl + Shift + P` and selecting **Reload Window**.
 ```
-
-You can copy this entire block and paste it into the `README.md` file for your GitHub project. Everything is properly formatted and in markdown code, so it will render nicely on GitHub.
