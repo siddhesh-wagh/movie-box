@@ -1,6 +1,6 @@
 # movie-box
-MovieBox is a simple and responsive webpage for displaying a list of movies, built using basic HTML and CSS. The project demonstrates essential web development concepts, including page structure, styling, and layout design, making it ideal for beginners learning front-end development.
-Sure! Below is the content entirely in code format, so you can directly paste it into a `README.md` file.
+**MovieBox** is my very first project in **HTML and CSS** during my diploma journey. The project showcases a simple, responsive webpage designed to display a list of movies. It serves as an introduction to essential web development concepts such as page structure, styling, and layout design. This project reflects my early steps into front-end development and my enthusiasm for learning web technologies. 🚀
+
 
 # ```markdown
 ## Steps to Run HTML and CSS Files in Visual Studio Code (VS Code)
