@@ -7,7 +7,7 @@ Image of the project:
 ![Project Screenshot](assests/front.png)
 ![](assests/front1.png)
 ![](assests/front2.png)
-![](assets/front3.png)
+![](assests/front3.png)
 ![](assets/front4.png)
 
 # ```markdown
