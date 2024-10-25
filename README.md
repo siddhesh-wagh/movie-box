@@ -4,7 +4,7 @@
 # My Project
 Image of the project:
 
-![Project Screenshot](assets/front.png)
+![Project Screenshot](assests/front.png)
 ![](assets/front1.png)
 ![](assets/front2.png)
 ![](assets/front3.png)
