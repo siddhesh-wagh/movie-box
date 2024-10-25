@@ -8,7 +8,7 @@ Image of the project:
 ![](assests/front1.png)
 ![](assests/front2.png)
 ![](assests/front3.png)
-![](assets/front4.png)
+![](assests/front4.png)
 
 # ```markdown
 ## Steps to Run HTML and CSS Files in Visual Studio Code (VS Code)
