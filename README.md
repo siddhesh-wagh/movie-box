@@ -1,6 +1,12 @@
 # movie-box
 **MovieBox** is my very first project in **HTML and CSS** during my diploma journey. The project showcases a simple, responsive webpage designed to display a list of movies. It serves as an introduction to essential web development concepts such as page structure, styling, and layout design. This project reflects my early steps into front-end development and my enthusiasm for learning web technologies. 🚀
 
+# My Project
+Image of the project:
+
+![Project Screenshot](assets/front.png)
+![](assets/front1.png)
+![](assets/front2.png)
 
 # ```markdown
 ## Steps to Run HTML and CSS Files in Visual Studio Code (VS Code)
