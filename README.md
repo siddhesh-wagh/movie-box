@@ -6,7 +6,7 @@ Image of the project:
 
 ![Project Screenshot](assests/front.png)
 ![](assests/front1.png)
-![](assets/front2.png)
+![](assests/front2.png)
 ![](assets/front3.png)
 ![](assets/front4.png)
 
